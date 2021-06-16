@@ -3,9 +3,7 @@
 
 The goal is to create a model using the provided predictor variables for predicting of the overall win percent of candy and evaluate the model using possible model evaluation techniques.
 # Data  Description
-What 
-
-is the best (or at least the most popular) Halloween candy? That was the question this dataset was collected to answer. Data was collected by creating a website where participants were shown presenting two fun-sized candies and asked to click on the one they would prefer to receive. In total, more than 269 thousand votes were collected from 8,371 different IP addresses.
+What is the best (or at least the most popular) Halloween candy? That was the question this dataset was collected to answer. Data was collected by creating a website where participants were shown presenting two fun-sized candies and asked to click on the one they would prefer to receive. In total, more than 269 thousand votes were collected from 8,371 different IP addresses.
 The dataset comprises of 85 rows and 13 columns.
 For binary variables, 1 means yes, 0 means no. The data contains the following fields:
 
